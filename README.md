@@ -43,7 +43,7 @@ pip install -r requirements.txt
 
 # Run analysis
 jupyter notebook
-
+```
 # Project Structure
 
 StudentPerformancePrediction/
@@ -78,7 +78,7 @@ model.fit(X_processed, y)
 # Make prediction
 prediction = model.predict(new_student_data)
 print(f"Predicted Math Score: {prediction[0]:.1f}")
-
+```
 
 # Business Impact
 
