@@ -4,7 +4,6 @@ scikit-learn
 seaborn
 matplotlib
 catboost
-tensorflow
 scikit-learn
 catboost
 xgboost
