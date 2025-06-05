@@ -43,7 +43,6 @@ pip install -r requirements.txt
 
 # Run analysis
 jupyter notebook
-```
 
 # Project Structure
 
